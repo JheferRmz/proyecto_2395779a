@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+}
+
+#contenedor{
+    background-color: darkorange;
+    height: 700px;
+    width: 100%;
+}
+
+#superior{
+    background-color: brown;
+    height: 50px;
+}
+#medio{
+    background-color: chartreuse;
+    height: 500px;
+   
+}
+#izquierdo{
+    background-color: darkkhaki;
+    height: 500px;
+    width: 10%;
+    float: left;
+}
+#derecho{
+    background-color: aqua;
+    height: 500px;
+    width: auto;
+}
